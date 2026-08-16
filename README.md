@@ -80,7 +80,7 @@ GitHub
 
 I use GitHub to document my projects, experiments and software engineering work.
 
-"LinkedIn" (https://www.linkedin.com/) · "GitHub" (https://github.com/Baqir110)
+"LinkedIn" (https://www.linkedin.com/muhammad-baqir-it) · "GitHub" (https://github.com/Baqir110)
 
 ---
 
