@@ -90,8 +90,3 @@ Building practical projects at the intersection of:
 
 AI + Data + Software Engineering + IT
 
-More projects and technical documentation will be added as the portfolio develops.Important
-
-Don't worry that some of the projects mentioned in the README don't exist yet. We're going to build them. However, don't add fake project links or fake results. Once each project is actually completed, we'll turn its name into a link and add screenshots/results.
-
-Also, I intentionally haven't added dozens of badges, animated GIFs, contribution graphs, or decorative widgets. A recruiter should be able to understand your profile in about 20 seconds.
