@@ -1,92 +1,38 @@
-Muhammad Baqir
+# Hi there, I'm Muhammad Baqir 👋
 
-Software Systems Science | AI & Data Science | Software Engineering & IT
-
-I am a Master's student in Software Systems Science with an interest in building practical solutions across Artificial Intelligence, Data Science, Software Engineering, and IT systems.
-
-My portfolio focuses on projects that combine software development with data-driven and AI-powered solutions.
+Master's student in **International Software Systems Science** at the University of Bamberg. I specialize in building end-to-end solutions across **Artificial Intelligence**, **MLOps**, **Data Engineering**, and **Infrastructure Observability**.
 
 ---
 
-Areas of Interest
-
-- Artificial Intelligence & Machine Learning
-- Data Science & Data Analytics
-- Generative AI & LLM Applications
-- Software Engineering
-- Data Engineering
-- IT Systems & Automation
-- Backend Development
-- Linux, Networking & Infrastructure
+### 🛠️ Technical Stack
+* **Languages:** Python, Java, C, C++, SQL, Bash
+* **AI & Machine Learning:** Scikit-Learn, PyTorch, Pandas, NumPy, ChromaDB, RAG
+* **Backend & Web:** FastAPI, REST APIs, Streamlit, Uvicorn, Pydantic
+* **Data & Observability:** PostgreSQL, Redis, Prometheus, Grafana, Evidently AI
+* **DevOps & Infrastructure:** Docker, Docker Compose, Kubernetes, GitHub Actions CI/CD, Git, Linux
 
 ---
 
-Technology Stack
+### 🚀 Featured Projects
 
-Languages
+#### 1. ⚡ [AI IT Operations Assistant](https://github.com/Baqir110/ai-it-ops-assistant)
+* **Tech Stack:** FastAPI, PostgreSQL, Redis, Prometheus, Grafana, ChromaDB, Docker, Kubernetes
+* Infrastructure observability platform for automated telemetry analysis, anomaly detection, vector-search runbook retrieval, and email alert routing via Grafana Alertmanager.
 
-"Python" "Java" "C" "C++" "SQL"
+#### 2. 📊 [Customer Churn Analytics Service](https://github.com/Baqir110/customer-churn-analytics)
+* **Tech Stack:** Python, Scikit-Learn, FastAPI, Streamlit, Evidently AI, Prometheus, Docker
+* Production-grade MLOps microservice featuring real-time & batch churn prediction, feature explainability (`/explain`), data drift reporting, and an automated A/B testing strategy engine.
 
-AI & Data Science
+#### 3. 🔄 [Real-Time Data Pipeline](https://github.com/Baqir110/real-time-pipeline)
+* **Tech Stack:** Python, Pandas, SQLAlchemy, PostgreSQL, FastAPI
+* Production-grade real-time data engineering pipeline featuring automated ETL ingestion, data validation, and analytics endpoints.
 
-"Pandas" "NumPy" "Scikit-learn" "PyTorch"
-
-Software Engineering
-
-"FastAPI" "REST APIs" "Git" "GitHub" "pytest"
-
-Data & Infrastructure
-
-"PostgreSQL" "Docker" "Linux" "Bash"
-
-Currently Exploring
-
-"Generative AI" "RAG" "LLM Applications" "Vector Databases" "MLOps"
+#### 4. 🛠️ [AI IT Support Assistant](https://github.com/Baqir110/ai-it-support-assistant)
+* **Tech Stack:** Python, FastAPI, Vector Search, RAG
+* Automated IT support assistant built for technical troubleshooting and structured issue analysis using Retrieval-Augmented Generation.
 
 ---
 
-Featured Projects
-
-Projects are being developed as part of my portfolio.
-
-AI IT Support Assistant
-
-An AI-powered IT support system that uses Retrieval-Augmented Generation to analyse technical problems and provide evidence-based troubleshooting recommendations.
-
-Focus: AI · RAG · Python · FastAPI · Vector Search · IT Support
-
-Customer Churn Prediction
-
-An end-to-end machine learning project covering data preparation, exploratory analysis, feature engineering, model training, evaluation and prediction.
-
-Focus: Data Science · Machine Learning · Python · SQL
-
-AI Resume Analyzer
-
-An NLP/LLM application that analyses CVs against job descriptions and identifies skills, keywords, gaps and potential improvements.
-
-Focus: NLP · LLMs · Python · APIs
-
----
-
-Education
-
-M.Sc. International Software Systems Science
-University of Bamberg, Germany
-
----
-
-GitHub
-
-I use GitHub to document my projects, experiments and software engineering work.
-
-"LinkedIn" (https://www.linkedin.com/muhammad-baqir-it) · "GitHub" (https://github.com/Baqir110)
-
----
-
-Current Focus
-
-Building practical projects at the intersection of:
-
-AI + Data + Software Engineering + IT
-
+### 📬 Connect with Me
+* **LinkedIn:** [linkedin.com/in/muhammad-baqir-it](https://www.linkedin.com/in/muhammad-baqir-it)
+* **GitHub:** [github.com/Baqir110](https://github.com/Baqir110)
