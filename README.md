@@ -1,6 +1,6 @@
 # Hi, I am Muhammad Baqir 👋
 
-DevOps Engineer and master's student in International Software Systems Science at the University of Bamberg[span_0](start_span)[span_0](end_span). I specialize in DevOps, cloud infrastructure, platform reliability, MLOps, and CI/CD automation, focusing on building scalable, automated, and observable systems[span_1](start_span)[span_1](end_span).
+DevOps Engineer and master's student in International Software Systems Science at the University of Bamberg. I specialize in DevOps, cloud infrastructure, platform reliability, MLOps, and CI/CD automation, focusing on building scalable, automated, and observable systems.
 
 ---
 
@@ -27,21 +27,21 @@ DevOps Engineer and master's student in International Software Systems Science a
 
 ### 🛠️ AI IT Operations Assistant
 
-A cloud-ready platform for infrastructure monitoring, anomaly detection, incident analysis, and automated troubleshooting[span_2](start_span)[span_2](end_span). It processes telemetry, searches runbooks for relevant fixes, and integrates monitoring and alerting workflows[span_3](start_span)[span_3](end_span).
+A cloud-ready platform for infrastructure monitoring, anomaly detection, incident analysis, and automated troubleshooting. It processes telemetry, searches runbooks for relevant fixes, and integrates monitoring and alerting workflows.
 
-- Tools: `Python` • `FastAPI` • `PostgreSQL` • `Redis` • `Prometheus` • `Grafana` • `ChromaDB` • `Docker` • `Kubernetes`[span_4](start_span)[span_4](end_span)
+- Tools: `Python` • `FastAPI` • `PostgreSQL` • `Redis` • `Prometheus` • `Grafana` • `ChromaDB` • `Docker` • `Kubernetes`
 
 ### 📊 Customer Churn Analytics
 
-An ML microservice for real-time and batch customer-churn prediction, with feature explanations and data-drift monitoring[span_5](start_span)[span_5](end_span).
+An ML microservice for real-time and batch customer-churn prediction, with feature explanations and data-drift monitoring.
 
-- Tools: `Python` • `Scikit-Learn` • `FastAPI` • `Streamlit` • `Evidently AI` • `Docker`[span_6](start_span)[span_6](end_span)
+- Tools: `Python` • `Scikit-Learn` • `FastAPI` • `Streamlit` • `Evidently AI` • `Docker`
 
 ### 🔄 Real-Time Data Pipeline
 
-A backend data pipeline for ETL processing, data validation, database integration, and analytics APIs[span_7](start_span)[span_7](end_span).
+A backend data pipeline for ETL processing, data validation, database integration, and analytics APIs.
 
-- Tools: `Python` • `Pandas` • `SQLAlchemy` • `PostgreSQL` • `FastAPI`[span_8](start_span)[span_8](end_span)
+- Tools: `Python` • `Pandas` • `SQLAlchemy` • `PostgreSQL` • `FastAPI`
 
 ### 🤖 AI IT Support Assistant
 
@@ -102,10 +102,10 @@ A retrieval-augmented support tool that analyzes technical problems and retrieve
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Baqir110&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Baqir110&theme=dark&hide_border=false&include_all_commits=false&count_private=false&hide_rank=true" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Baqir110&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=c,html,css" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Baqir110&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=c,html,css,hack,php" alt="Top Languages" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Baqir110&theme=dark&hide_border=false" alt="GitHub Streak" />
