@@ -1,6 +1,5 @@
 # Hi, I am Muhammad Baqir 👋
-
-DevOps Engineer and master's student in International Software Systems Science at the University of Bamberg. I specialize in DevOps, cloud infrastructure, platform reliability, MLOps, and CI/CD automation, focusing on building scalable, automated, and observable systems.
+DevOps Engineer and master's student in International Software Systems Science at the University of Bamberg. I build and operate end-to-end systems across cloud infrastructure, automation, CI/CD, Kubernetes, observability, and MLOps turning ideas into scalable, automated, and production-ready platforms.
 
 ---
 
