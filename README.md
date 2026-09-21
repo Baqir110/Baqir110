@@ -1,6 +1,6 @@
 # Hi, I am Muhammad Baqir 👋
 
-I am a master's student at the **University of Bamberg**. I build backend microservices, data pipelines, and cloud monitoring systems.
+I am a master's student at the **University of Bamberg**[span_0](start_span)[span_0](end_span). I build cloud services, backend tools, MLOps, data pipelines, and monitoring systems[span_1](start_span)[span_1](end_span).
 
 ---
 
@@ -23,16 +23,16 @@ I am a master's student at the **University of Bamberg**. I build backend micros
 ## 🚀 Projects
 
 ### 🛠️ AI IT Operations Assistant
-Processes infrastructure telemetry to spot anomalies, searches runbooks for fixes, and dispatches alerts via Grafana.
-- **Tools:** `Python` • `FastAPI` • `PostgreSQL` • `Redis` • `Prometheus` • `Grafana` • `ChromaDB` • `Docker` • `Kubernetes`
+Processes infrastructure telemetry to spot anomalies, searches runbooks for fixes, and dispatches alerts via Grafana[span_2](start_span)[span_2](end_span).
+- **Tools:** `Python` • `FastAPI` • `PostgreSQL` • `Redis` • `Prometheus` • `Grafana` • `ChromaDB` • `Docker` • `Kubernetes`[span_3](start_span)[span_3](end_span)
 
 ### 📊 Customer Churn Analytics Service
-ML microservice for real-time and batch churn prediction, featuring feature contribution endpoints (`/explain`) and data drift monitoring.
-- **Tools:** `Python` • `Scikit-Learn` • `FastAPI` • `Streamlit` • `Evidently AI` • `Docker`
+ML microservice for real-time and batch churn prediction, featuring feature contribution endpoints (`/explain`) and data drift monitoring[span_4](start_span)[span_4](end_span).
+- **Tools:** `Python` • `Scikit-Learn` • `FastAPI` • `Streamlit` • `Evidently AI` • `Docker`[span_5](start_span)[span_5](end_span)
 
 ### 🔄 Real-Time Data Pipeline
-Data engineering pipeline handling ETL ingestion, Pandas data validation, and FastAPI analytics endpoints.
-- **Tools:** `Python` • `Pandas` • `SQLAlchemy` • `PostgreSQL` • `FastAPI`
+Data engineering pipeline handling ETL ingestion, Pandas data validation, and FastAPI analytics endpoints[span_6](start_span)[span_6](end_span).
+- **Tools:** `Python` • `Pandas` • `SQLAlchemy` • `PostgreSQL` • `FastAPI`[span_7](start_span)[span_7](end_span)
 
 ### 🤖 AI IT Support Assistant
 Retrieval-augmented tool for analyzing technical support problems and retrieving troubleshooting steps.
