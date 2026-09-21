@@ -2,7 +2,6 @@ Hi, I am Muhammad Baqir 👋
 
 DevOps Engineer and master's student in International Software Systems Science at the University of Bamberg. I focus on DevOps, cloud infrastructure, platform reliability, MLOps, and CI/CD automation, building scalable, automated, and observable systems.
 
----
 
 🌐 Connect with Me
 
@@ -46,8 +45,6 @@ A backend data pipeline for ETL processing, data validation, database integratio
 A retrieval-augmented support tool for analyzing technical problems and retrieving relevant troubleshooting procedures from a knowledge base.
 
 - Tools: "Python" • "FastAPI" • "Vector Search"
-
----
 
 💻 Tech Stack
 
@@ -99,7 +96,6 @@ Databases & Tools
 "Git" (https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 "VMware" (https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
 
----
 
 📊 GitHub Stats
 
@@ -120,7 +116,6 @@ Databases & Tools
 - System Observability & Monitoring
 - AI-Assisted Operations & MLOps
 
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Baqir110&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
