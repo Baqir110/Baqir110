@@ -1,11 +1,14 @@
 # Hi, I am Muhammad Baqir 👋
-DevOps Engineer and master's student in International Software Systems Science at the University of Bamberg. I build and operate end-to-end systems across cloud infrastructure, automation, CI/CD, Kubernetes, observability, and MLOps turning ideas into scalable, automated, and production-ready platforms.
+MLOps-leaning DevOps Engineer for teams running ML workloads on AWS/Azure — forecasting pipelines, monitoring, and cost control. Currently a master's student in International Software Systems Science at the University of Bamberg.
 
 ---
 
 ## 🌐 Connect with Me
 
 <p align="left">
+  <a href="https://Baqir110.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2C3E50?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://linkedin.com/in/muhammad-baqir-it" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -15,6 +18,7 @@ DevOps Engineer and master's student in International Software Systems Science a
   <a href="https://github.com/Baqir110" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <!-- Remove this Medium badge if the account isn't actively posted to -->
   <a href="https://medium.com/@l3aqir" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
@@ -24,24 +28,25 @@ DevOps Engineer and master's student in International Software Systems Science a
 
 ## 🚀 Featured Projects
 
-### 🛠️ AI IT Operations Assistant
+### 🛠️ IT Operations & Monitoring Platform
 
 A cloud-ready platform for infrastructure monitoring, anomaly detection, incident analysis, and automated troubleshooting. It processes telemetry, searches runbooks for relevant fixes, and integrates monitoring and alerting workflows.
 
 - Tools: `Python` • `FastAPI` • `PostgreSQL` • `Redis` • `Prometheus` • `Grafana` • `ChromaDB` • `Docker` • `Kubernetes`
 
-### 📊 Customer Churn Analytics
+### 📊 Customer Churn Analytics Platform
 
 An ML microservice for real-time and batch customer-churn prediction, with feature explanations and data-drift monitoring.
 
 - Tools: `Python` • `Scikit-Learn` • `FastAPI` • `Streamlit` • `Evidently AI` • `Docker`
 
-### 🔄 Real-Time Data Pipeline
+### 🔄 Real-Time Data Engineering Pipeline
 
 A backend data pipeline for ETL processing, data validation, database integration, and analytics APIs.
 
 - Tools: `Python` • `Pandas` • `SQLAlchemy` • `PostgreSQL` • `FastAPI`
 
+<!-- Only keep this if it's a real, distinct project from the IT Ops Platform above — otherwise delete this section -->
 ### 🤖 AI IT Support Assistant
 
 A retrieval-augmented support tool that analyzes technical problems and retrieves relevant troubleshooting procedures from a knowledge base.
@@ -56,10 +61,7 @@ A retrieval-augmented support tool that analyzes technical problems and retrieve
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 ### Cloud & DevOps
 
@@ -67,10 +69,7 @@ A retrieval-augmented support tool that analyzes technical problems and retrieve
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
 ### Observability & Operations
 
@@ -84,7 +83,6 @@ A retrieval-augmented support tool that analyzes technical problems and retrieve
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
@@ -95,6 +93,13 @@ A retrieval-augmented support tool that analyzes technical problems and retrieve
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+<!--
+Removed from the original: Terraform, Ansible, Jenkins, PyTorch, Java, C++, PowerShell.
+These didn't appear in your Experience bullets or project stacks anywhere else.
+Add any of them back in only if you can speak to real, hands-on experience with them in an interview —
+a skill badge with no backing project is exactly the kind of mismatch an AI/recruiter cross-check flags.
+-->
 
 ---
 
