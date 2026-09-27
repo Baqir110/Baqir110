@@ -32,10 +32,10 @@ DevOps & SRE Engineer specializing in infrastructure reliability, incident manag
 
 An AI-powered platform for automated incident detection, diagnosis, controlled remediation, and recovery verification. Implements a complete 9-state incident lifecycle with evidence collection, deterministic diagnosis, optional AI/RAG-enhanced root cause analysis, allowlisted remediation with risk-based approval workflow, and automatic recovery verification.
 
-- **Self-Healing Pipeline:** Detection → Incident → Evidence → Diagnosis → Remediation → Verification → Resolution
-- **Key Features:** HTTP health & Prometheus detectors, ChromaDB runbook retrieval, SLO/SLI monitoring (MTTD, MTTR), cost optimization, rate limiting, RBAC, audit logging
-- **Infrastructure:** Docker Compose, Kubernetes/Helm, Terraform, Argo CD GitOps, GitHub Actions CI/CD with Trivy/Gitleaks security scanning
-- **Testing:** 39 tests (unit, integration, end-to-end)
+- Self-Healing Pipeline: Detection → Incident → Evidence → Diagnosis → Remediation → Verification → Resolution
+- Key Features: HTTP health & Prometheus detectors, ChromaDB runbook retrieval, SLO/SLI monitoring (MTTD, MTTR), cost optimization, rate limiting, RBAC, audit logging
+- Infrastructure: Docker Compose, Kubernetes/Helm, Terraform, Argo CD GitOps, GitHub Actions CI/CD with Trivy/Gitleaks security scanning
+- Testing: 39 tests (unit, integration, end-to-end)
 - Tools: `Python` • `FastAPI` • `PostgreSQL` • `Redis` • `Prometheus` • `Grafana` • `ChromaDB` • `Docker` • `Kubernetes` • `Helm` • `Terraform` • `Argo CD` • `GitHub Actions`
 
 ### 📊 Customer Churn Analytics Platform
